@@ -1,3 +1,7 @@
 \.idea/
 
 challengebot\.iml
+
+target/
+
+token
